@@ -1,6 +1,6 @@
 # gearbox-analytics
 
-# Gearbox-Parameters
+# Gearbox Deployed Contracts List & Parameters
 Fetch all Gearbox contracts and print existing protocol parameters
 
 ### Requirements
